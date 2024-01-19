@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Steve
 - 👀 I’m interested in ... Real Estate, Tech Revenue Teams, Woodworking, Drones
 - 🌱 I’m currently learning ... Coding, CSM Mastery
-- 💞️ I’m looking to collaborate on ... Maxmizing Customer Value
+- 💞️ I’m looking to collaborate on ... Maximizing Customer Value
 - 📫 How to reach me ... slide into my DMs
 
 <!---
